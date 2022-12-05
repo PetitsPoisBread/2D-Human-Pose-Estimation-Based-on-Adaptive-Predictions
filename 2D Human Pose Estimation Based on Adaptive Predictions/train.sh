@@ -1,1 +1,0 @@
- python tools/train.py  --cfg experiments/coco/transformer/w32_384x288_adamw_lr1e-4.yaml
